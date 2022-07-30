@@ -1,0 +1,31 @@
+.font{
+    font-size: 40px;
+    /* color: aquamarine; */
+     /* font-family: 'Montserrat', sans-serif; */
+
+     font-family: 'Montserrat', sans-serif;
+}
+/* .pic{
+    width: 400px;
+} */
+
+.bg-gray{
+    background-color: #dcdcdc;
+}
+.bg-red{
+    background-color: #b22222;
+}
+
+ul button{
+    margin: 10px 10px;
+}
+aa:link { text-decoration: none; }
+
+
+aa:visited { text-decoration: none; }
+
+
+aa:hover { text-decoration: none; }
+
+
+aa:active { text-decoration: none; }
